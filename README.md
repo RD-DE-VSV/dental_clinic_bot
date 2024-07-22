@@ -28,4 +28,4 @@ The goal of this project is to create a Telegram bot that acts as a virtual assi
 ## Links
 - **Chat with the Bot**: [Chat with Dental Clinic Bot](https://t.me/dental_clinic_oni_bot)
 - **GitHub Repository**: [Dental Clinic Bot Repository](https://github.com/RD-DE-VSV/dental_clinic_bot)
-- **Landing Page**: [Dental Clinic Bot Landing Page](https://RD-DE-VSV.github.io/dental_clinic_bot)
+- **Landing Page**: [Dental Clinic Bot Landing Page](https://rd-de-vsv.github.io/dental-clinic-bot-landing/)
